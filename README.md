@@ -1,8 +1,6 @@
 # CMPUT404 - Social Distribution Project
 
-This repository contains the contents of a school project originally created as part of the **CMPUT404: Web Applications and Architectures** course at the University of Alberta. The project aimed to implement a **distributed social networking platform** as described in the [official course project specification](https://uofa-cmput404.github.io/general/project.html).
-
-> ![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)
+This repository contains the contents of a school project originally created as part of the **CMPUT404: Web Applications and Architectures** course at the University of Alberta. The project aimed to implement a **distributed social networking platform** as described in the <a href="https://uofa-cmput404.github.io/general/project.html" target="_blank">official course project specification</a>.
 
 ---
 
